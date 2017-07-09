@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+html, body {
+text-align: center;
+}
+p {text-align: left;}
+
+body {
+	margin: 25px 0;
+	padding: 0;
+	background: #697281;
+	text-align: left;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #F1F5F8;
+	background-color:#679999;
+}
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;}
